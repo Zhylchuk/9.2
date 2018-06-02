@@ -1,0 +1,8 @@
+﻿  9.2.cpp
+c:\users\paradise\source\repos\9.2\9.2\9.2.cpp(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\paradise\source\repos\9.2\9.2\9.2.cpp(41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\paradise\source\repos\9.2\9.2\9.2.cpp(43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\paradise\source\repos\9.2\9.2\9.2.cpp(45): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\paradise\source\repos\9.2\9.2\9.2.cpp(47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\paradise\source\repos\9.2\9.2\9.2.cpp(47): warning C4305: аргумент: усечение из "double" в "float"
+  9.2.vcxproj -> C:\Users\Paradise\source\repos\9.2\Debug\9.2.exe
